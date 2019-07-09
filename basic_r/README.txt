@@ -1,0 +1,1 @@
+Basic Docker image contaning only R (3.6.0)
